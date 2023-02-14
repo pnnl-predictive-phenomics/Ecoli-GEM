@@ -1,0 +1,29 @@
+version: "0.1"
+medium:
+  path: "media/"
+  definitions:
+    glucose:
+        filename: "glucose.csv"
+        label: "Glucose"
+    minimal:
+      filename: "minimal.csv"
+      label: "Minimal"
+essentiality:
+  path: "essentiality/"
+  experiments:
+    knockouts:
+      medium:     minimal
+      filename: "gene_ess.csv"
+      label: "knock-out library"
+#growth:
+#  path: "growth/"
+#  experiments:
+#    biolog_pm1:
+#      medium:  no_carbon
+#      filename: 'pm1_pm2_biolog.csv'
+#      label: "Biolog data"
+#    biolog_pm3:
+#      medium:     no_nitrogen
+#      filename: 'pm3_biolog.csv'
+#      label: "Biolog data"
+minimal_growth_rate: 0.05
