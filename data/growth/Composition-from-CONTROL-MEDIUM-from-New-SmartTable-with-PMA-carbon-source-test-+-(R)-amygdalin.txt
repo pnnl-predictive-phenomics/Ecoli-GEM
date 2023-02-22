@@ -1,0 +1,11 @@
+Composition from CONTROL-MEDIUM from New SmartTable with PMA carbon source test + (R)-amygdalin	BIGG
+ammonium	nh4
+chloride	cl
+Fe<SUP>3+</SUP>	fe3
+H<SUP>+</SUP>	h
+K<SUP>+</SUP>	k
+Mg<SUP>2+</SUP>	mg2
+Na<SUP>+</SUP>	na1
+phosphate	pi
+sulfate	so4
+triethanolamine	

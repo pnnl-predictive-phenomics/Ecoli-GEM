@@ -8,6 +8,15 @@ medium:
     minimal:
       filename: "minimal.csv"
       label: "Minimal"
+    no_carbon:
+      filename: "minimal_minus_carbon.csv"
+      label: "no_carbon"
+    no_nitrogen:
+      filename: "minimal_minus_nitrogen.csv"
+      label: "no_nitrogen"
+    no_phosphorus:
+      filename: "minimal_minus_phosphorus.csv"
+      label: "no_phosphorus"
 essentiality:
   path: "essentiality/"
   experiments:
@@ -15,15 +24,19 @@ essentiality:
       medium:     minimal
       filename: "gene_ess.csv"
       label: "knock-out library"
-#growth:
-#  path: "growth/"
-#  experiments:
-#    biolog_pm1:
-#      medium:  no_carbon
-#      filename: 'pm1_pm2_biolog.csv'
-#      label: "Biolog data"
-#    biolog_pm3:
-#      medium:     no_nitrogen
-#      filename: 'pm3_biolog.csv'
-#      label: "Biolog data"
+growth:
+  path: "growth/"
+  experiments:
+    biolog_carbon:
+      medium:  no_carbon
+      filename: 'carbon_plate.csv'
+      label: "    biolog_carbon"
+    biolog_nitrogen:
+      medium:     no_nitrogen
+      filename: 'nitrogen_plate.csv'
+      label: "biolog_nitrogen"
+    biolog_phosporus:
+      medium: no_carbon
+      filename: 'phosphorus_plate.csv'
+      label: "biolog_phosporus data"
 minimal_growth_rate: 0.05

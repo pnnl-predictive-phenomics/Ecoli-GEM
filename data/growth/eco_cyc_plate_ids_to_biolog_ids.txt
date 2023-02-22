@@ -1,0 +1,384 @@
+Growth-Media	WELL-ID	In-Group
+PMA carbon source test + dihydroxyacetone	H9	Biolog PM2 - Carbon Sources
+PMA carbon source test + L-galactono-1,4-lactone	H9	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + gln	H9	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + 1-butanesulfonate	H9	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + putrescine	H8	Biolog PM2 - Carbon Sources
+PMA carbon source test + pyruvate	H8	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + gly-asn	H8	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + 4-aminobenzenesulfonate	H8	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 1-(4-hydroxyphenyl)-2-aminoethanol	H7	Biolog PM2 - Carbon Sources
+PMA carbon source test + glucuronamide	H7	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + ala-thr	H7	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + hypotaurine	H7	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + &beta;-L-lyxopyranose	H6	Biolog PM1 - Carbon Sources
+PMA carbon source test + sec-butylamine	H6	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + ala-leu	H6	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + taurine	H6	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + a D,L-carnitine	H5	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-psicose	H5	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + ala-his	H5	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + taurocholate	H5	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + tyramine	H4	Biolog PM1 - Carbon Sources
+PMA carbon source test + val	H4	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + ala-gly	H4	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + lipoamide	H4	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 3-hydroxyphenylacetate	H3	Biolog PM1 - Carbon Sources
+PMA carbon source test + 5-oxoproline	H3	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + L-Ala-L-Glu	H3	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + 1-thio-&beta;-D-glucose	H3	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 4-hydroxyphenylacetate	H2	Biolog PM1 - Carbon Sources
+PMA carbon source test + phe	H2	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + ala-gln	H2	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + thiourea	H2	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + acetoin	H12	Biolog PM2 - Carbon Sources
+PMA carbon source test + ethanolamine	H12	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + methionine-alanine dipeptide	H12	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + sulfolane	H12	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 2-phenylethylamine	H11	Biolog PM1 - Carbon Sources
+PMA carbon source test + diacetyl	H11	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + gly-met	H11	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + methanesulfonate	H11	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + (R,R)-2,3-butanediol	H10	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-galacturonate	H10	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + glycyl-L-glutamate	H10	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + isethionate	H10	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + glycylproline	H1	Biolog PM1 - Carbon Sources
+PMA carbon source test + L-ornithine	H1	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + ala-asp	H1	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + djenkolate	H1	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + ile	G9	Biolog PM2 - Carbon Sources
+PMA carbon source test + mono-methyl hydrogen succinate	G9	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + 6-aminohexanoate	G9	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + gly-met	G9	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + <i>N</i>-acetyl-D-mannosamine	G8	Biolog PM1 - Carbon Sources
+PMA carbon source test + <i>trans</i>-4-hydroxy-L-proline	G8	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + 4-aminobutyrate	G8	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + D-methionine	G8	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + acetoacetate	G7	Biolog PM1 - Carbon Sources
+PMA carbon source test + L-homoserine	G7	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + 2-aminobutyrate	G7	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + met	G7	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + ala-gly	G6	Biolog PM1 - Carbon Sources
+PMA carbon source test + his	G6	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + parabanate	G6	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + ethionine	G6	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + ala	G5	Biolog PM1 - Carbon Sources
+PMA carbon source test + gly	G5	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + allantoin	G5	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + glutathione	G5	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + arg	G4	Biolog PM2 - Carbon Sources
+PMA carbon source test + thr	G4	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + alloxan	G4	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + lanthionine	G4	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + <i>N</i>-acetyl-L-glutamate	G3	Biolog PM2 - Carbon Sources
+PMA carbon source test + ser	G3	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + urate	G3	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + L-cystathionine	G3	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + L-alanine amide	G2	Biolog PM2 - Carbon Sources
+PMA carbon source test + propane-1,2,3-tricarboxylate	G2	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + xanthosine	G2	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + S-methyl-L-cysteine	G2	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + (<i>S</i>)-malate	G12	Biolog PM1 - Carbon Sources
+PMA carbon source test + met	G12	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + L-2-aminopentanoate	G12	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + L-Methionine sulfone	G12	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + (R)-malate	G11	Biolog PM1 - Carbon Sources
+PMA carbon source test + lys	G11	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + 5-aminopentanoate	G11	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + L-methionine <i>S</i>-oxide	G11	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + leu	G10	Biolog PM2 - Carbon Sources
+PMA carbon source test + methyl pyruvate	G10	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + 2-aminocaprylate	G10	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + <i>N</i>-acetyl-DL-methionine	G10	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + acetamide	G1	Biolog PM2 - Carbon Sources
+PMA carbon source test + glycyl-L-glutamate	G1	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + xanthine	G1	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + <i>N</i>-acetyl-L-cysteine	G1	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + glycolate	F9	Biolog PM1 - Carbon Sources
+PMA carbon source test + sorbate	F9	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + thymidine	F9	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + cysteinylglycine	F9	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + galactarate	F8	Biolog PM1 - Carbon Sources
+PMA carbon source test + sebacate	F8	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + thymine	F8	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + D-cysteine	F8	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-ribono-1,4-lactone	F7	Biolog PM2 - Carbon Sources
+PMA carbon source test + propionate	F7	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + guanosine	F7	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + cys	F7	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + bromosuccinate	F6	Biolog PM1 - Carbon Sources
+PMA carbon source test + L-quinate	F6	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + guanine	F6	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + dithiophosphate	F6	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 3-oxalomalate	F5	Biolog PM2 - Carbon Sources
+PMA carbon source test + fumarate	F5	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + cytosine	F5	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + thiophosphate	F5	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-threonine	F4	Biolog PM1 - Carbon Sources
+PMA carbon source test + oxalate	F4	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + cytidine	F4	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + tetrathionate	F4	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + melibionate	F3	Biolog PM2 - Carbon Sources
+PMA carbon source test + <I>myo</I>-inositol	F3	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + adenosine	F3	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + thiosulfate	F3	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + citrate	F2	Biolog PM1 - Carbon Sources
+PMA carbon source test + malonate	F2	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + adenine	F2	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + sulfate	F2	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + inosine	F12	Biolog PM1 - Carbon Sources
+PMA carbon source test + L-tartrate	F12	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + inosine	F12	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + 3-sulfinoalanine	F12	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + cellobiose	F11	Biolog PM1 - Carbon Sources
+PMA carbon source test + D-tartrate	F11	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + uridine	F11	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + cysteamine	F11	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + glyoxylate	F10	Biolog PM1 - Carbon Sources
+PMA carbon source test + succinamate	F10	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + uracil	F10	Biolog PM3 - Nitrogen Sources
+PMA sulfur source test + (<i>R</i>)-cysteate	F10	Biolog PM4 - Phosphorus and Sulfur Sources
+Bochner defined minimal medium without sulfur	F1	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + gly-asp	F1	Biolog PM1 - Carbon Sources
+PMA carbon source test + methyl D-lactate	F1	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + <i>N</i>-acetyl-D-mannosamine	F1	Biolog PM3 - Nitrogen Sources
+PMA carbon source test + 4-hydroxybutyrate	E9	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-ribitol	E9	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + galactosamine	E9	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + thymidine 3'-monophosphate	E9	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 3-hydroxybutanoate	E8	Biolog PM2 - Carbon Sources
+PMA carbon source test + methyl-&beta; -D-glucoside	E8	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + D-glucosamine	E8	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + methylenediphosphonate	E8	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 2-hydroxybutyrate	E7	Biolog PM1 - Carbon Sources
+PMA carbon source test + 4-hydroxybenzoate	E7	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + D,L-lactamide	E7	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 2-aminoethylphosphonate	E7	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + &alpha;-hydroxyglutarate-&gamma;-lactone	E6	Biolog PM1 - Carbon Sources
+PMA carbon source test + salicylate	E6	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + glucuronamide	E6	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + phosphonoacetate	E6	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-glucosamine	E5	Biolog PM2 - Carbon Sources
+PMA carbon source test + Tween 80	E5	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + formamide	E5	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + phosphoryl-ethanolamine	E5	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + citramalate	E4	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-fructose-6-phosphate	E4	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + acetamide	E4	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + phosphoryl-choline	E4	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + &alpha;-D-glucose 1-phosphate	E3	Biolog PM1 - Carbon Sources
+PMA carbon source test + citraconate	E3	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + tyramine	E3	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + creatine-phosphate	E3	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + hexanoate	E2	Biolog PM2 - Carbon Sources
+PMA carbon source test + <i>meso</i>-tartrate	E2	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + 2-phenylethylamine	E2	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + O-phospho-L-tyrosine	E2	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 5-dehydro-D-gluconate	E12	Biolog PM2 - Carbon Sources
+PMA carbon source test + adenosine	E12	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + an N-acetyl-D-galactosamine	E12	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + thymidine 3'5'-cyclic monophosphate	E12	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + deoxyadenosine	E11	Biolog PM1 - Carbon Sources
+PMA carbon source test + itaconate	E11	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + <i>N</i>-acetyl-D-glucosamine	E11	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 1D-<i>myo</i>-inositol 1,2,3,4,5,6-hexakisphosphate	E11	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 2-ketopentanoate	E10	Biolog PM2 - Carbon Sources
+PMA carbon source test + maltotriose	E10	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + D-mannosamine	E10	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + dTMP	E10	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + caprate	E1	Biolog PM2 - Carbon Sources
+PMA carbon source test + gln	E1	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + histamine	E1	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + O-phospho-D-tyrosine	E1	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + lactose	D9	Biolog PM1 - Carbon Sources
+PMA carbon source test + <i>N</i>-acetyl -D- glucosaminitol	D9	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + ethanolamine	D9	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + uridine 3'-monophosphate	D9	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-xylitol	D8	Biolog PM2 - Carbon Sources
+PMA carbon source test + methyl-&alpha;-D-galactopyranoside	D8	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + ethylamine	D8	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + uridine 2'-monophosphate	D8	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 2-oxobutanoate	D7	Biolog PM1 - Carbon Sources
+PMA carbon source test + turanose	D7	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + butylamine	D7	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + L-threonine O-3-phosphate	D7	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 2-oxoglutarate	D6	Biolog PM1 - Carbon Sources
+PMA carbon source test + D-tagatose	D6	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + n-amylamine	D6	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 3-phospho-L-serine	D6	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + stachyose	D5	Biolog PM2 - Carbon Sources
+PMA carbon source test + Tween 40	D5	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + methylamine	D5	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + O-phospho-D-serine	D5	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + L-1,2-propanediol	D4	Biolog PM1 - Carbon Sources
+PMA carbon source test + L-sorbose	D4	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + hydroxylamine	D4	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + N-phospho-L-arginine	D4	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + glucosaminate	D3	Biolog PM1 - Carbon Sources
+PMA carbon source test + sedoheptulose anhydride	D3	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + 5-oxoproline	D3	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + cysteamine S-phosphate	D3	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-aspartate	D2	Biolog PM1 - Carbon Sources
+PMA carbon source test + salicin	D2	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + 2-phthalimidoglutarate	D2	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + D-mannose 6-phosphate	D2	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 2-butanoate	D12	Biolog PM2 - Carbon Sources
+PMA carbon source test + uridine	D12	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + agmatine	D12	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + uridine 3'5'-cyclic monophosphate	D12	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 5-aminopentanoate	D11	Biolog PM2 - Carbon Sources
+PMA carbon source test + sucrose	D11	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + putrescine	D11	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + uridine 2'3'-cyclic monophosphate	D11	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 4-aminobutyrate	D10	Biolog PM2 - Carbon Sources
+PMA carbon source test + lactulose	D10	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + ethylenediamine	D10	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + UMP	D10	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + asn	D1	Biolog PM1 - Carbon Sources
+PMA carbon source test + raffinose	D1	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + <i>N</i>-acetyl-D,L-glutamate	D1	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + &alpha;-D-mannose 1-phosphate	D1	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 1-O-methyl-&beta;-D-glucuronate	C9	Biolog PM2 - Carbon Sources
+PMA carbon source test + &alpha;-D-glucose	C9	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + D-valine	C9	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + cytidine-3'-monophosphate	C9	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 3-O-methyl-d-glucose	C8	Biolog PM2 - Carbon Sources
+PMA carbon source test + acetate	C8	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + D-serine	C8	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + cytidine 2'-monophosphate	C8	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-fructose	C7	Biolog PM1 - Carbon Sources
+PMA carbon source test + methyl-&beta;-D-galactoside	C7	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + D-lysine	C7	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 6-phospho-D-gluconate	C7	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + L-rhamnose	C6	Biolog PM1 - Carbon Sources
+PMA carbon source test + methyl &alpha;-D-glucoside	C6	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + D-glutamate	C6	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + D-glucosamine-6-phosphate	C6	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + maltitol	C5	Biolog PM2 - Carbon Sources
+PMA carbon source test + Tween 20	C5	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + D-aspartate	C5	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 2-deoxy-D-glucose 6-phosphate	C5	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-ribose	C4	Biolog PM1 - Carbon Sources
+PMA carbon source test + melezitose	C4	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + D-asparagine	C4	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + D-glucose-6-phosphate	C4	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + (<i>RS</i>)-malate	C3	Biolog PM1 - Carbon Sources
+PMA carbon source test + lactitol	C3	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + D-alanine	C3	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + &alpha;-D-glucose 1-phosphate	C3	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-galactono-1,4-lactone	C2	Biolog PM1 - Carbon Sources
+PMA carbon source test + L-glucose	C2	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + val	C2	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 2-phosphoglycolate	C2	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + palatinose	C12	Biolog PM2 - Carbon Sources
+PMA carbon source test + thymidine	C12	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + L-ornithine	C12	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 3',5'-cyclic CMP	C12	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 1-O-methyl-&beta;-D-xylopyranose	C11	Biolog PM2 - Carbon Sources
+PMA carbon source test + melibiose	C11	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + L-homoserine	C11	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + cytidine 2',3'-cyclic monophosphate	C11	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + maltose	C10	Biolog PM1 - Carbon Sources
+PMA carbon source test + methyl &alpha;-D-mannopyranoside	C10	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + L-citrulline	C10	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + CMP	C10	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + &beta;-gentiobiose	C1	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-glucose-6-phosphate	C1	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + tyr	C1	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + phosphoenolpyruvate	C1	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + (<i>S</i>)-lactate	B9	Biolog PM1 - Carbon Sources
+PMA carbon source test + 2'-deoxyribose	B9	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + pro	B9	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + guanosine 3'-monophosphate	B9	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-xylose	B8	Biolog PM1 - Carbon Sources
+PMA carbon source test + hydroquinone-O-&beta;-D-glucopyranoside	B8	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + phe	B8	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + guanosine 2'-monophosphate	B8	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + L-arabitol	B7	Biolog PM2 - Carbon Sources
+PMA carbon source test + <i>sn</i>-glycerol-3-phosphate	B7	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + met	B7	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 3-phospho-D-glycerate	B7	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-arabitol	B6	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-gluconate	B6	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + lys	B6	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 2-phospho-D-glycerate	B6	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-arabinose	B5	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-glucuronate	B5	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + leu	B5	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + carbamoyl-phosphate	B5	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + (R)-amygdalin	B4	Biolog PM2 - Carbon Sources
+PMA carbon source test + L-fucose	B4	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + ile	B4	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + glycerol 2-phosphate	B4	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-allose	B3	Biolog PM2 - Carbon Sources
+PMA carbon source test + glycerol	B3	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + his	B3	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + <i>sn</i>-glycerol-3-phosphate	B3	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-sorbitol	B2	Biolog PM1 - Carbon Sources
+PMA carbon source test + <i>N</i>-acetylneuraminate	B2	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + gly	B2	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + dithiophosphate	B2	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + 3-O-&beta;-D-galactopyranosyl-D-arabinose	B12	Biolog PM2 - Carbon Sources
+PMA carbon source test + glt	B12	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + trp	B12	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + cyclic-GMP	B12	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + D-fucose	B11	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-mannitol	B11	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + thr	B11	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + guanosine 2',3'-cyclic monophosphate	B11	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + erythritol	B10	Biolog PM2 - Carbon Sources
+PMA carbon source test + formate	B10	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + ser	B10	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + GMP	B10	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + an N-acetyl-D-galactosamine	B1	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-serine	B1	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + gln	B1	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + thiophosphate	B1	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + an inulin	A9	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-alanine	A9	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + asn	A9	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + 3'-adenosine monophosphate	A9	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + glycogen	A8	Biolog PM2 - Carbon Sources
+PMA carbon source test + pro	A8	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + arg	A8	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + adenosine 2'-monophosphate	A8	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + asp	A7	Biolog PM1 - Carbon Sources
+PMA carbon source test + gelatin	A7	Biolog PM2 - Carbon Sources
+PMA nitrogen source test + ala	A7	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + phosphinate	A7	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + a dextrin	A6	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-galactose	A6	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + biuret	A6	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + triethyl phosphate	A6	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + &gamma;-cyclodextrin	A5	Biolog PM2 - Carbon Sources
+PMA carbon source test + succinate	A5	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + urea	A5	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + PPP<SUB>i</SUB>	A5	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + &beta;-cyclodextrin	A4	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-glucarate	A4	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + nitrate	A4	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + trimetaphosphate	A4	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + &alpha;-cyclodextrin	A3	Biolog PM2 - Carbon Sources
+PMA carbon source test + <i>N</i>-acetyl-D-glucosamine	A3	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + nitrite	A3	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + diphosphate	A3	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + chondroitin sulfate C	A2	Biolog PM2 - Carbon Sources
+PMA carbon source test + L-arabinose	A2	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + ammonia	A2	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + phosphate	A2	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + a pectin	A12	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-galactitol	A12	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + glt	A12	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + cyclic-AMP	A12	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + a mannan	A11	Biolog PM2 - Carbon Sources
+PMA carbon source test + D-mannose	A11	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + cys	A11	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + adenosine 2'3'-cyclic monophosphate	A11	Biolog PM4 - Phosphorus and Sulfur Sources
+PMA carbon source test + a laminaran	A10	Biolog PM2 - Carbon Sources
+PMA carbon source test + trehalose	A10	Biolog PM1 - Carbon Sources
+PMA nitrogen source test + asp	A10	Biolog PM3 - Nitrogen Sources
+PMA phosphorus source test + AMP	A10	Biolog PM4 - Phosphorus and Sulfur Sources
+Bochner defined minimal medium without carbon	A1	Biolog PM1 - Carbon Sources
+Bochner defined minimal medium without nitrogen	A1	Biolog PM3 - Nitrogen Sources
+Bochner defined minimal medium without phosphorous	A1	Biolog PM4 - Phosphorus and Sulfur Sources
