@@ -29,8 +29,8 @@ jobs:
 
     - name: Memote run
       run: |
-        memote report snapshot models/iHM1533.xml  --filename="gh-pages-repo/iHM1533_release_report.html" #--experimental=models/azotobacter_vinelandii_dj/data/experiments.yml
-        memote report snapshot models/iML1515.xml  --filename="gh-pages-repo/iML1515_release_report.html" --experimental=data/experiments.yml
+        memote report snapshot ecoli/iHM1533.xml  --filename="gh-pages-repo/iHM1533_release_report.html" 
+        memote report snapshot ecoli/iML1515.xml  --filename="gh-pages-repo/iML1515_release_report.html" --experimental=ecoli/data/experiments.yml
   
 
     - name: Auto-commit results

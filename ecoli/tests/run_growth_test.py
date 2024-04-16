@@ -4,7 +4,7 @@ from memote.suite.cli.reports import snapshot
 if __name__ == '__main__':
 
     args = [
-        '../models/iML1515.xml',
+        '../models/ecocyc-25.0-gem-cs-glucose-tea-oxygen.xml',
         '--filename', 'growth_report.html',
 
         '--experimental', '../data/experiments.yml',
